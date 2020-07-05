@@ -10329,7 +10329,7 @@ body {
 }
 
 .contact-section {
-  padding-top: 6rem;
+  padding: 10rem 0;
   background-attachment: scroll;
 }
 .contact-section .card {
